@@ -1,0 +1,5 @@
+{
+  "name": "Custom Dashboard Builder",
+  "description": "A dashboard builder with drag-and-drop widgets and a Customer Order data module.",
+  "requestFramePermissions": []
+}
